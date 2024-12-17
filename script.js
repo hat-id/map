@@ -1,4 +1,4 @@
 function mybutton(){
-    var x = document.getElementById("Text1").value;
+    var x = document.getElementById("text1").value;
     document.getElementById("text2").value = x;
 }

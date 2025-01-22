@@ -4,9 +4,9 @@ class SpecialHeader extends HTMLElement {
         <p style="display: flex;"> 
             <div class="Leiste"></div>
             <h1 class="Überschrift"> hat.id </h1>
-            <a class="home" href="/map/index.html">Home</a>
-            <a class="page1" href="/map/Todo-Liste.html">Todo-Liste</a>
-            <a class="Spiel1" href="/map/Spiel/Spiel1.html">Spiedwdwl</a>
+            <a class="home" href="/index.html">Home</a>
+            <a class="page1" href="/Todo-Liste.html">Todo-Liste</a>
+            <a class="Spiel1" href="/Spiel/Spiel1.html">Spiedwdwl</a>
         </p>
         `
     }
